@@ -38,6 +38,3 @@ def predict():
     else:
         return render_template("heart_failure.html",label=-1)
 
-
-if __name__ =="__main__":
-    app.run(debug=True)
