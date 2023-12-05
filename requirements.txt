@@ -5,3 +5,4 @@ sklearn
 Flask
 pickle
 gunicorn
+scikit-learn
