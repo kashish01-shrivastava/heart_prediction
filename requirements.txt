@@ -1,8 +1,5 @@
 pandas
 numpy
-matplotlib
-sklearn
 Flask
 pickle
 gunicorn
-scikit-learn
